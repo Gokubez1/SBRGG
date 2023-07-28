@@ -12,6 +12,7 @@ namespace SBRGG
             //BTW "Oneshots" aren't gloves removed in no oneshot. Its the ones that literally one hit.
             //Last note: These are slap-req gloves.
             "Default",
+            "Spin",
             "Diamond",
             "ZZZZZZZ",
             "Extendend",

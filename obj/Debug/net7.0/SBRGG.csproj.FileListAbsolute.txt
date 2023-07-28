@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Projects\SBRGG\bin\Debug\net7.0\SBRGG.exe
+C:\Users\Administrator\Documents\Projects\SBRGG\bin\Debug\net7.0\SBRGG.deps.json
+C:\Users\Administrator\Documents\Projects\SBRGG\bin\Debug\net7.0\SBRGG.runtimeconfig.json
+C:\Users\Administrator\Documents\Projects\SBRGG\bin\Debug\net7.0\SBRGG.dll
+C:\Users\Administrator\Documents\Projects\SBRGG\bin\Debug\net7.0\SBRGG.pdb
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.dll
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\refint\SBRGG.dll
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.pdb
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\SBRGG.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Projects\SBRGG\obj\Debug\net7.0\ref\SBRGG.dll

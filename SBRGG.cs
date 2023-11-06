@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SBRGG
 {
@@ -13,6 +13,7 @@ namespace SBRGG
             //Last note: These are slap-req gloves.
             "Default",
             "Spin",
+            "Duel",
             "Diamond",
             "ZZZZZZZ",
             "Extendend",
@@ -71,7 +72,14 @@ namespace SBRGG
             "Slicer",
             "Excavator",
             "Nightmare",
-            "Thor", //Next Up: Badge Gloves
+            "Thor",
+            "Cloud",
+            "Gravity",
+            "Jebaited",
+            "Meteor",
+            "Guardian Angel",
+            "Sun",
+            //Next Up: Badge Gloves
             "Acrobat",
             "MEGAROCK",
             "Plague",
@@ -130,7 +138,15 @@ namespace SBRGG
             "rob",
             "Rhythm",
             "Rojo",
-            "Hitman", //Next up: Oneshots and Gamepasses. These will be disabled by default. To enable them, remove the "//" from them.
+            "Hitman",
+            "Retro",
+            "Null",
+            "Lure",
+            "Tinkerer",
+            "Necromancer",
+            "Alchemist",
+            "Druid"
+            //Next up: Oneshots and Gamepasses. These will be disabled by default. To enable them, remove the "//" from them.
             //"OVERKILL", 
             //"Spectator",
             //"CUSTOM",
@@ -138,6 +154,7 @@ namespace SBRGG
             //"God's hand",
             //"Error",
             //"The Flex",
+            //"Killerfish"
             };
 
             Console.WriteLine("How many gloves do you want to generate?");
@@ -152,6 +169,7 @@ namespace SBRGG
 
             Console.WriteLine("Your random glove is: " + gloves[number]);
             }
+          Console.WriteLine("Press any key to close...");
             Console.ReadLine();
         }
     }

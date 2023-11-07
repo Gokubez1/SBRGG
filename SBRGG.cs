@@ -170,7 +170,7 @@ namespace SBRGG
             Console.WriteLine("Your random glove is: " + gloves[number]);
             }
           Console.WriteLine("Press any key to close...");
-            Console.ReadLine();
+          Console.ReadKey();
         }
     }
 }
